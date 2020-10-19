@@ -1,0 +1,38 @@
+*{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 30px;
+    box-sizing: border-box;
+    background-color: rgba(224, 224, 224, 0.5);
+    color: rgb(48, 0, 0);
+}
+
+div h2{
+    margin: 2.5%;
+}
+
+p{
+    margin: 5%;
+}
+
+h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+input{
+    border-radius: 5px;
+    background-color: rgb(146, 0, 0);
+    border: 1px solid rgb(87, 1, 1);
+    color: pink;
+
+}
+
+input:focus {
+    background-color: rgb(255, 0, 0);
+}
+
+.piedepagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
